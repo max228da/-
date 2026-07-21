@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-07-21T01:51:33",
+  "count": 2,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "1488452497",
+      "seller_key": "deurassistent.nl",
+      "seller_nickname": "Deurassistent.nl",
+      "seller_profile_url": null,
+      "seller_registered_raw": "7 jaar op Marktplaats",
+      "seller_registered_date": "2019-07-23",
+      "published_raw": "Sinds 12 aug '23 Advertentienummer: a1488452497",
+      "published_date": "2023-08-12",
+      "title": "TeleRadio T60 handzender mini 1 knop",
+      "price": "€ 73,50",
+      "listing_url": "https://www.marktplaats.nl/v/audio-tv-en-foto/radio-s/a1488452497-teleradio-t60-handzender-mini-1-knop",
+      "photo_url": "https://admarkt-cdn.marktplaats.com/api/v1/icas-mp-pro-admarkt/images/28/288e5889-9618-4d7c-8057-4acbaf02b82a?rule=eps_83"
+    },
+    {
+      "ad_id": "1438692208",
+      "seller_key": "tapijttegeldiscount",
+      "seller_nickname": "TapijtTegelDiscount",
+      "seller_profile_url": null,
+      "seller_registered_raw": "7 jaar op Marktplaats",
+      "seller_registered_date": "2019-07-23",
+      "published_raw": "Vandaag besteld = snel geleverd",
+      "published_date": "2026-07-21",
+      "title": "Goedkope tapijttegels – Projectkwaliteit direct leverbaar",
+      "price": "",
+      "listing_url": "https://www.marktplaats.nl/v/huis-en-inrichting/stoffering-vloerbedekking/a1438692208-goedkope-tapijttegels-projectkwaliteit-direct-leverbaar",
+      "photo_url": "https://admarkt-cdn.marktplaats.com/api/v1/icas-mp-pro-admarkt/images/49/493aa602-6ef8-4ade-a560-cbaefd6447f5?rule=eps_83"
+    }
+  ]
+}

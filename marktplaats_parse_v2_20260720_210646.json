@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-20T21:06:46",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2418931380",
+      "seller_key": "hendrik brugman",
+      "seller_nickname": "Hendrik brugman",
+      "seller_profile_url": null,
+      "seller_registered_raw": "4 jaar op Marktplaats",
+      "seller_registered_date": "2022-07-21",
+      "published_raw": "Sinds 10 jul '26 Advertentienummer: m2418931380",
+      "published_date": "2026-07-10",
+      "title": "Gaming PC i7-8700 + RTX 3060 12GB",
+      "price": "€ 400,00",
+      "listing_url": "https://www.marktplaats.nl/v/computers-en-software/overige-computers-en-software/m2418931380-gaming-pc-i7-8700-rtx-3060-12gb",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/333cd6fc-8708-46bd-ad9d-ffb27fed6bf8?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

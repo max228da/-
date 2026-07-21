@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-21T01:59:25",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "1486799508",
+      "seller_key": "bike totaal ton koning",
+      "seller_nickname": "Bike Totaal Ton Koning",
+      "seller_profile_url": null,
+      "seller_registered_raw": "3 jaar op Marktplaats",
+      "seller_registered_date": "2023-07-22",
+      "published_raw": "Sinds 14 jul '23 Advertentienummer: a1486799508",
+      "published_date": "2023-07-14",
+      "title": "Specialized vado 4.0 | electrische fiets | nieuw maat M",
+      "price": "€ 2.519,00",
+      "listing_url": "https://www.marktplaats.nl/v/fietsen-en-brommers/elektrische-fietsen/a1486799508-specialized-vado-4-0-electrische-fiets-nieuw-maat-m",
+      "photo_url": "https://admarkt-cdn.marktplaats.com/api/v1/icas-mp-pro-admarkt/images/02/02f25d35-382e-4490-bbc8-86c453ca7f12?rule=eps_83"
+    }
+  ]
+}

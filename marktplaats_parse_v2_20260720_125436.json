@@ -1,0 +1,68 @@
+{
+  "generated_at": "2026-07-20T12:54:36",
+  "count": 4,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2409955048",
+      "seller_key": "tulp",
+      "seller_nickname": "tulp",
+      "seller_profile_url": null,
+      "seller_registered_raw": "20 jaar op Marktplaats",
+      "seller_registered_date": "2006-07-25",
+      "published_raw": "Sinds 12 jun '26 Advertentienummer: m2409955048",
+      "published_date": "2026-06-12",
+      "title": "Jonge Leghennen regenboogleggers",
+      "price": "De hennen zijn allemaal aan de leg. Ze zijn nog jong, maximaal 1j oud. De hennen betreffen overwegend kruizingen tussen verschillende rassen om zo tot een bepaalde eikleur te komen. Omdat er voldoende nageslacht is mogen enkele hennen verhuizen. 20€ ps.",
+      "listing_url": "https://www.marktplaats.nl/v/dieren-en-toebehoren/pluimvee/m2409955048-jonge-leghennen-regenboogleggers",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/90f5fb04-e49e-45e3-b8a8-0e04e9c25e6e?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2422097375",
+      "seller_key": "annet barreveld",
+      "seller_nickname": "Annet Barreveld",
+      "seller_profile_url": null,
+      "seller_registered_raw": "10 jaar op Marktplaats",
+      "seller_registered_date": "2016-07-22",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422097375",
+      "published_date": "2026-07-20",
+      "title": "Lieve kittens, verschillende kleuren, katertjes en poezen",
+      "price": "€ 75,00",
+      "listing_url": "https://www.marktplaats.nl/v/dieren-en-toebehoren/katten-en-kittens-overige-katten/m2422097375-lieve-kittens-verschillende-kleuren-katertjes-en-poezen",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/0e8b5fe6-1d0e-4fbe-b211-e5bff17ad386?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2416256844",
+      "seller_key": "l s",
+      "seller_nickname": "L S",
+      "seller_profile_url": null,
+      "seller_registered_raw": "5 jaar op Marktplaats",
+      "seller_registered_date": "2021-07-21",
+      "published_raw": "Sinds 2 jul '26 Advertentienummer: m2416256844",
+      "published_date": "2026-07-02",
+      "title": "Tekoop geweldige 6 maine coon kittens 😍😹😻💙💞",
+      "price": "Prijs: €750 per kitten.",
+      "listing_url": "https://www.marktplaats.nl/v/dieren-en-toebehoren/katten-en-kittens-raskatten-langhaar/m2416256844-tekoop-geweldige-6-maine-coon-kittens",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/4cea2762-678e-41bf-bfe6-dc430c5f08ef?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2422098052",
+      "seller_key": "k.kelders",
+      "seller_nickname": "k.kelders",
+      "seller_profile_url": null,
+      "seller_registered_raw": "15 jaar op Marktplaats",
+      "seller_registered_date": "2011-07-24",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422098052",
+      "published_date": "2026-07-20",
+      "title": "Leuke kruising Labrador Boxer x Boxer.",
+      "price": "€ 1.400,00",
+      "listing_url": "https://www.marktplaats.nl/v/dieren-en-toebehoren/honden-niet-rashonden/m2422098052-leuke-kruising-labrador-boxer-x-boxer",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/f7e44280-cf2f-42e6-b044-1a0283a1a038?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

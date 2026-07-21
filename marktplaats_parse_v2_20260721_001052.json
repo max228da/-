@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-21T00:10:52",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "1515749258",
+      "seller_key": "betaalbaarshoppen.nl",
+      "seller_nickname": "Betaalbaarshoppen.nl",
+      "seller_profile_url": null,
+      "seller_registered_raw": "2 jaar op Marktplaats",
+      "seller_registered_date": "2024-07-21",
+      "published_raw": "Sinds 10 jul '25 Advertentienummer: a1515749258",
+      "published_date": "2025-07-10",
+      "title": "Kibani Mini Grondfrees Benzine - Tuinfrees Grond Frees",
+      "price": "",
+      "listing_url": "https://www.marktplaats.nl/v/tuin-en-terras/hand-tuingereedschap/a1515749258-kibani-mini-grondfrees-benzine-tuinfrees-grond-frees",
+      "photo_url": "https://admarkt-cdn.marktplaats.com/api/v1/icas-mp-pro-admarkt/images/b5/b5467476-a334-43bc-9b16-a97ee027204b?rule=eps_83"
+    }
+  ]
+}

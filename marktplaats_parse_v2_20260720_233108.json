@@ -1,0 +1,68 @@
+{
+  "generated_at": "2026-07-20T23:31:08",
+  "count": 4,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2422157326",
+      "seller_key": "a",
+      "seller_nickname": "A",
+      "seller_profile_url": null,
+      "seller_registered_raw": "5 jaar op Marktplaats",
+      "seller_registered_date": "2021-07-21",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422157326",
+      "published_date": "2026-07-20",
+      "title": "Stokke Tripp Trapp walnoot bruin oud model helemaal schoon!",
+      "price": "€ 75,00",
+      "listing_url": "https://www.marktplaats.nl/v/kinderen-en-baby-s/kinderstoelen/m2422157326-stokke-tripp-trapp-walnoot-bruin-oud-model-helemaal-schoon",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/03d81a3e-6a05-48f2-86a9-2f766b002f30?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2422325683",
+      "seller_key": "famh",
+      "seller_nickname": "FamH",
+      "seller_profile_url": null,
+      "seller_registered_raw": "6 jaar op Marktplaats",
+      "seller_registered_date": "2020-07-21",
+      "published_raw": "📅 Geboren op: 8 mei 2026-🤎 en ❤️ grijze katers. Mogen het nest al verlaten.",
+      "published_date": "2026-05-08",
+      "title": "Allerliefste sociale grote Brits korthaar kittens",
+      "price": "€ 599,99",
+      "listing_url": "https://www.marktplaats.nl/v/dieren-en-toebehoren/katten-en-kittens-raskatten-korthaar/m2422325683-allerliefste-sociale-grote-brits-korthaar-kittens",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/eaed17a0-bb7f-4ca8-aead-3e0b84d7bc7a?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2385029724",
+      "seller_key": "lovelyvelvet",
+      "seller_nickname": "lovelyvelvet",
+      "seller_profile_url": null,
+      "seller_registered_raw": "20 jaar op Marktplaats",
+      "seller_registered_date": "2006-07-25",
+      "published_raw": "Hallo, laat ik me even voorstellen. Ik ben een 17 weken oude zwarte Dwerg/Toypoedel reutje geboren 16 maart 2026",
+      "published_date": "2026-03-16",
+      "title": "Toypoedel lief 17 weken reutje FCI Stamboom prijs verlaagd!",
+      "price": "Vaste prijs: €2000",
+      "listing_url": "https://www.marktplaats.nl/v/dieren-en-toebehoren/honden-chihuahua-s-en-gezelschapshonden/m2385029724-toypoedel-lief-17-weken-reutje-fci-stamboom-prijs-verlaagd",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/c9ec06ec-45e3-4b76-adc5-ba0b92a8d26f?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2406853599",
+      "seller_key": "paul",
+      "seller_nickname": "Paul",
+      "seller_profile_url": null,
+      "seller_registered_raw": "20 jaar op Marktplaats",
+      "seller_registered_date": "2006-07-25",
+      "published_raw": "Sinds 3 jun '26 Advertentienummer: m2406853599",
+      "published_date": "2026-06-03",
+      "title": "Toulouse dewlap Ganzen",
+      "price": "Bieden",
+      "listing_url": "https://www.marktplaats.nl/v/dieren-en-toebehoren/pluimvee/m2406853599-toulouse-dewlap-ganzen",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/1119758b-53ce-40ff-8b28-b0e6451da6c9?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

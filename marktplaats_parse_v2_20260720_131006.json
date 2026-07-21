@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-07-20T13:10:06",
+  "count": 2,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2422098577",
+      "seller_key": "evert hofland",
+      "seller_nickname": "Evert Hofland",
+      "seller_profile_url": null,
+      "seller_registered_raw": "19 jaar op Marktplaats",
+      "seller_registered_date": "2007-07-25",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422098577",
+      "published_date": "2026-07-20",
+      "title": "Brother MFC-L2720DW laserprinter zwart/wit",
+      "price": "€ 90,00",
+      "listing_url": "https://www.marktplaats.nl/v/computers-en-software/printers/m2422098577-brother-mfc-l2720dw-laserprinter-zwart-wit",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/d046c415-6e85-4487-819b-542945e87b76?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2422098968",
+      "seller_key": "bram buist",
+      "seller_nickname": "Bram Buist",
+      "seller_profile_url": null,
+      "seller_registered_raw": "20 jaar op Marktplaats",
+      "seller_registered_date": "2006-07-25",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422098968",
+      "published_date": "2026-07-20",
+      "title": "Show draaibankje, miniatuur",
+      "price": "€ 45,00",
+      "listing_url": "https://www.marktplaats.nl/v/hobby-en-vrije-tijd/modelbouw-overige/m2422098968-show-draaibankje-miniatuur",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/ceaf2ea1-b7f9-47dd-abfb-ed786c96239b?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

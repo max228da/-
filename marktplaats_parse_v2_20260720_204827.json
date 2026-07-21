@@ -1,0 +1,68 @@
+{
+  "generated_at": "2026-07-20T20:48:27",
+  "count": 4,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2422272885",
+      "seller_key": "stefan",
+      "seller_nickname": "stefan",
+      "seller_profile_url": null,
+      "seller_registered_raw": "18 jaar op Marktplaats",
+      "seller_registered_date": "2008-07-24",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422272885",
+      "published_date": "2026-07-20",
+      "title": "Fleischmann ice BR407 717 digitaal",
+      "price": "Bieden",
+      "listing_url": "https://www.marktplaats.nl/v/hobby-en-vrije-tijd/modeltreinen-h0/m2422272885-fleischmann-ice-br407-717-digitaal",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/5202f5ed-e8d8-4c2b-9aa4-1a542f572f24?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2407671155",
+      "seller_key": "de puzzel van george baker mist 8 stukjes.",
+      "seller_nickname": "De puzzel van George Baker mist 8 stukjes.",
+      "seller_profile_url": null,
+      "seller_registered_raw": "14 jaar op Marktplaats",
+      "seller_registered_date": "2012-07-23",
+      "published_raw": "Sinds 6 jun '26 Advertentienummer: m2407671155",
+      "published_date": "2026-06-06",
+      "title": "200+ puzzels te koop max 2000 stukjes, zitten ook nieuwe bij",
+      "price": "Prijzen variëren tussen de €1,- - €17,50 per puzzel.",
+      "listing_url": "https://www.marktplaats.nl/v/hobby-en-vrije-tijd/denksport-en-puzzels/m2407671155-200-puzzels-te-koop-max-2000-stukjes-zitten-ook-nieuwe-bij",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/6d2ef873-3022-4505-a93b-d77f815d400f?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2421525668",
+      "seller_key": "floris kuiper",
+      "seller_nickname": "Floris Kuiper",
+      "seller_profile_url": null,
+      "seller_registered_raw": "3 jaar op Marktplaats",
+      "seller_registered_date": "2023-07-21",
+      "published_raw": "Sinds 18 jul '26 Advertentienummer: m2421525668",
+      "published_date": "2026-07-18",
+      "title": "Parkside Accu Grasmaaier - Compact en Krachtig",
+      "price": "€ 50,00",
+      "listing_url": "https://www.marktplaats.nl/v/tuin-en-terras/grasmaaiers/m2421525668-parkside-accu-grasmaaier-compact-en-krachtig",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/4eeba5d8-c4f0-4e0c-8d3f-d8353f2d63ca?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2422273200",
+      "seller_key": "verheesjeshoeve",
+      "seller_nickname": "Verheesjeshoeve",
+      "seller_profile_url": null,
+      "seller_registered_raw": "4 jaar op Marktplaats",
+      "seller_registered_date": "2022-07-21",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422273200",
+      "published_date": "2026-07-20",
+      "title": "Weimaraner kruising",
+      "price": "Wil je alvast een pup reserveren? Dan vragen we een aanbetaling van €250.",
+      "listing_url": "https://www.marktplaats.nl/v/dieren-en-toebehoren/honden-setters-en-staande-honden/m2422273200-weimaraner-kruising",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/ae907f90-a63c-4fe2-b65a-116ca83e7905?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

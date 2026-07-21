@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-21T02:01:07",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "1527378544",
+      "seller_key": "boas - save fashion for good",
+      "seller_nickname": "BOAS - Save Fashion For Good",
+      "seller_profile_url": null,
+      "seller_registered_raw": "2 jaar op Marktplaats",
+      "seller_registered_date": "2024-07-21",
+      "published_raw": "Sinds 16 jun '26 Advertentienummer: a1527378544",
+      "published_date": "2026-06-16",
+      "title": "Esprit Holdings Zomerjurken Dames maat M Groen Vintage",
+      "price": "",
+      "listing_url": "https://www.marktplaats.nl/v/kleding-dames/jurken/a1527378544-esprit-holdings-zomerjurken-dames-maat-m-groen-vintage",
+      "photo_url": "https://admarkt-cdn.marktplaats.com/api/v1/icas-mp-pro-admarkt/images/21/21ffe384-f237-45de-a9eb-e1c586db7b88?rule=eps_83"
+    }
+  ]
+}

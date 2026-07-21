@@ -1,0 +1,54 @@
+{
+  "generated_at": "2026-07-20T20:16:35",
+  "count": 3,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2422268263",
+      "seller_key": "jouwfavovoetbalshirt",
+      "seller_nickname": "JouwFavoVoetbalshirt",
+      "seller_profile_url": null,
+      "seller_registered_raw": "11 maanden op Marktplaats",
+      "seller_registered_date": "2025-08-24",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422268263",
+      "published_date": "2026-07-20",
+      "title": "Nieuw voetbalshirt Spanje wereldkampioen 2026 uit&thuis ⭐️⭐️",
+      "price": "€ 35,00",
+      "listing_url": "https://www.marktplaats.nl/v/sport-en-fitness/voetbal/m2422268263-nieuw-voetbalshirt-spanje-wereldkampioen-2026-uit-thuis",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/fb511f65-0934-45cc-81fd-b6781c1be41a?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2419503642",
+      "seller_key": "j beekwilder",
+      "seller_nickname": "J Beekwilder",
+      "seller_profile_url": null,
+      "seller_registered_raw": "20 jaar op Marktplaats",
+      "seller_registered_date": "2006-07-25",
+      "published_raw": "Sinds 12 jul '26 Advertentienummer: m2419503642",
+      "published_date": "2026-07-12",
+      "title": "Bowflex 552i + Stand + 5.1S Bank | Complete Homegym",
+      "price": "€ 699,00",
+      "listing_url": "https://www.marktplaats.nl/v/sport-en-fitness/fitnessmaterialen/m2419503642-bowflex-552i-stand-5-1s-bank-complete-homegym",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/f9802548-5ca2-43cf-aaf8-7fe113662370?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2422255988",
+      "seller_key": "ironvanbox",
+      "seller_nickname": "ironvanbox",
+      "seller_profile_url": null,
+      "seller_registered_raw": "1 maand op Marktplaats",
+      "seller_registered_date": "2026-06-20",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422255988",
+      "published_date": "2026-07-20",
+      "title": "karting kartbus interieur",
+      "price": "€ 6.350,00",
+      "listing_url": "https://www.marktplaats.nl/v/sport-en-fitness/karting/m2422255988-karting-kartbus-interieur",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/bfb45a1b-e886-401d-b654-dd18c2edd53b?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-20T21:23:32",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2422289031",
+      "seller_key": "bestellaptops.nl",
+      "seller_nickname": "Bestellaptops.nl",
+      "seller_profile_url": null,
+      "seller_registered_raw": "2 maanden op Marktplaats",
+      "seller_registered_date": "2026-05-21",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422289031",
+      "published_date": "2026-07-20",
+      "title": "Lenovo ThinkPad X13 Gen 1 | i5 | 16GB | 256GB SSD",
+      "price": "€ 299,00",
+      "listing_url": "https://www.marktplaats.nl/v/computers-en-software/windows-laptops/m2422289031-lenovo-thinkpad-x13-gen-1-i5-16gb-256gb-ssd",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/cc9d3060-ee64-4682-b01d-e9204f096b9f?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-07-20T23:47:34",
+  "count": 2,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2422331654",
+      "seller_key": "p",
+      "seller_nickname": "P",
+      "seller_profile_url": null,
+      "seller_registered_raw": "5 jaar op Marktplaats",
+      "seller_registered_date": "2021-07-21",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422331654",
+      "published_date": "2026-07-20",
+      "title": "MacBook Air 15\" 2023 M2 - Scherm defect, werkt verder goed",
+      "price": "€ 550,00",
+      "listing_url": "https://www.marktplaats.nl/v/computers-en-software/apple-macbooks/m2422331654-macbook-air-15-2023-m2-scherm-defect-werkt-verder-goed",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/40fac6b6-73b9-493e-8e5c-c1bde8368280?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2419414402",
+      "seller_key": "corne van de groep",
+      "seller_nickname": "Corne van de Groep",
+      "seller_profile_url": null,
+      "seller_registered_raw": "18 jaar op Marktplaats",
+      "seller_registered_date": "2008-07-24",
+      "published_raw": "Sinds 11 jul '26 Advertentienummer: m2419414402",
+      "published_date": "2026-07-11",
+      "title": "Dinky Supertoys 965 Euclid Rear Dump Truck originele doos",
+      "price": "Bieden",
+      "listing_url": "https://www.marktplaats.nl/v/hobby-en-vrije-tijd/modelauto-s-1-43/m2419414402-dinky-supertoys-965-euclid-rear-dump-truck-originele-doos",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/518c0b02-42fc-41ea-8895-3b2c541fe1e5?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

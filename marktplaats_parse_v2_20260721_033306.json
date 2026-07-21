@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-21T03:33:06",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2422350014",
+      "seller_key": "jesse telman",
+      "seller_nickname": "Jesse telman",
+      "seller_profile_url": null,
+      "seller_registered_raw": "4 jaar op Marktplaats",
+      "seller_registered_date": "2022-07-22",
+      "published_raw": "Sinds 21 jul '26 Advertentienummer: m2422350014",
+      "published_date": "2026-07-21",
+      "title": "Elektrische fietsen",
+      "price": "Bieden",
+      "listing_url": "https://www.marktplaats.nl/v/fietsen-en-brommers/elektrische-fietsen/m2422350014-elektrische-fietsen",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/422151db-c388-4308-a398-343da8f20663?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

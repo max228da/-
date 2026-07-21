@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-21T01:44:17",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "1184424721",
+      "seller_key": "heins vitrines",
+      "seller_nickname": "Heins Vitrines",
+      "seller_profile_url": null,
+      "seller_registered_raw": "11 jaar op Marktplaats",
+      "seller_registered_date": "2015-07-24",
+      "published_raw": "Sinds 25 apr '18 Advertentienummer: a1184424721",
+      "published_date": "2018-04-25",
+      "title": "Module vitrine met LED verlichting voor spoor H0",
+      "price": "",
+      "listing_url": "https://www.marktplaats.nl/v/hobby-en-vrije-tijd/modeltreinen-h0/a1184424721-module-vitrine-met-led-verlichting-voor-spoor-h0",
+      "photo_url": "https://admarkt-cdn.marktplaats.com/api/v1/icas-mp-pro-admarkt/images/04/04b841bc-617b-4cad-a98f-73819949d529?rule=eps_83"
+    }
+  ]
+}

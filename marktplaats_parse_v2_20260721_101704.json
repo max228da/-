@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-21T10:17:04",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2385236395",
+      "seller_key": "huisentuin meubelen",
+      "seller_nickname": "Huisentuin Meubelen",
+      "seller_profile_url": null,
+      "seller_registered_raw": "20 jaar op Marktplaats",
+      "seller_registered_date": "2006-07-26",
+      "published_raw": "Sinds 5 apr '26 Advertentienummer: m2385236395",
+      "published_date": "2026-04-05",
+      "title": "DIRECT Leverbaar Picknickset Douglas Tafel Gratis Montage",
+      "price": "Behandelingen voor het tafelblad – € 79,00",
+      "listing_url": "https://www.marktplaats.nl/v/tuin-en-terras/picknicktafels/m2385236395-direct-leverbaar-picknickset-douglas-tafel-gratis-montage",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/504e366a-b39e-41f9-b5fd-4133dcd392d4?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

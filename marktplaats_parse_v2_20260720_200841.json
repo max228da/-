@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-07-20T20:08:41",
+  "count": 2,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2421836665",
+      "seller_key": "joey de bruijn",
+      "seller_nickname": "joey de bruijn",
+      "seller_profile_url": null,
+      "seller_registered_raw": "11 jaar op Marktplaats",
+      "seller_registered_date": "2015-07-23",
+      "published_raw": "Sinds 19 jul '26 Advertentienummer: m2421836665",
+      "published_date": "2026-07-19",
+      "title": "E shopper te koop",
+      "price": "€ 1.000,00",
+      "listing_url": "https://www.marktplaats.nl/v/fietsen-en-brommers/snorfietsen-en-snorscooters/m2421836665-e-shopper-te-koop",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/76f0759d-7d9d-4680-9b57-8a1329f4e8c6?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2399055717",
+      "seller_key": "fietsgigant",
+      "seller_nickname": "Fietsgigant",
+      "seller_profile_url": null,
+      "seller_registered_raw": "21 jaar op Marktplaats",
+      "seller_registered_date": "2005-07-25",
+      "published_raw": "Sinds 13 mei '26 Advertentienummer: m2399055717",
+      "published_date": "2026-05-13",
+      "title": "Keola 704M Bafang M400 Middenmotor Showmodel",
+      "price": "€ 1.250,00",
+      "listing_url": "https://www.marktplaats.nl/v/fietsen-en-brommers/elektrische-fietsen/m2399055717-keola-704m-bafang-m400-middenmotor-showmodel",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/80ca5d7b-db3b-48ff-9711-e895a6defb53?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

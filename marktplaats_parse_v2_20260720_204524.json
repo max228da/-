@@ -1,0 +1,82 @@
+{
+  "generated_at": "2026-07-20T20:45:24",
+  "count": 5,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2422277886",
+      "seller_key": "sven",
+      "seller_nickname": "Sven",
+      "seller_profile_url": null,
+      "seller_registered_raw": "14 jaar op Marktplaats",
+      "seller_registered_date": "2012-07-23",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422277886",
+      "published_date": "2026-07-20",
+      "title": "Collectie Dieter Rams, Hans Gugelot design Braun audio",
+      "price": "Bieden",
+      "listing_url": "https://www.marktplaats.nl/v/audio-tv-en-foto/stereo-sets/m2422277886-collectie-dieter-rams-hans-gugelot-design-braun-audio",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/184658f3-07e9-4047-9cba-350c300c31c7?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2330883168",
+      "seller_key": "zwaan satelliet b.v.",
+      "seller_nickname": "Zwaan Satelliet B.V.",
+      "seller_profile_url": null,
+      "seller_registered_raw": "18 jaar op Marktplaats",
+      "seller_registered_date": "2008-07-24",
+      "published_raw": "Sinds 6 nov '25 Advertentienummer: m2330883168",
+      "published_date": "2025-11-06",
+      "title": "PULSe MINI 4K HD UHD Linux enigma Satellietontvanger 12/220",
+      "price": "€ 140",
+      "listing_url": "https://www.marktplaats.nl/v/audio-tv-en-foto/decoders-en-harddiskrecorders/m2330883168-pulse-mini-4k-hd-uhd-linux-enigma-satellietontvanger-12-220",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/2e/2e9b4db2-6a30-464d-b389-75458783b822?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2422275164",
+      "seller_key": "detweederonde",
+      "seller_nickname": "DeTweedeRonde",
+      "seller_profile_url": null,
+      "seller_registered_raw": "0 dagen op Marktplaats",
+      "seller_registered_date": null,
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422275164",
+      "published_date": "2026-07-20",
+      "title": "Boston Acoustics 5.1 Surround Set A-serie Hoogglans Zwart",
+      "price": "€ 650,00",
+      "listing_url": "https://www.marktplaats.nl/v/audio-tv-en-foto/luidsprekers/m2422275164-boston-acoustics-5-1-surround-set-a-serie-hoogglans-zwart",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/535f5c13-699f-4429-8fd6-5ebb4d04d5a4?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2422274936",
+      "seller_key": "alain",
+      "seller_nickname": "Alain",
+      "seller_profile_url": null,
+      "seller_registered_raw": "17 jaar op Marktplaats",
+      "seller_registered_date": "2009-07-24",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422274936",
+      "published_date": "2026-07-20",
+      "title": "Ecoflow River 2 Pro",
+      "price": "Bieden",
+      "listing_url": "https://www.marktplaats.nl/v/telecommunicatie/powerbanks/m2422274936-ecoflow-river-2-pro",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/e5ca109c-dcc9-489c-877e-5790840a5c60?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2422272513",
+      "seller_key": "louisa",
+      "seller_nickname": "Louisa",
+      "seller_profile_url": null,
+      "seller_registered_raw": "18 jaar op Marktplaats",
+      "seller_registered_date": "2008-07-24",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422272513",
+      "published_date": "2026-07-20",
+      "title": "Bank lichtbeige ribstof 3-zits + Ottomaan (gloednieuw!)",
+      "price": "Bieden",
+      "listing_url": "https://www.marktplaats.nl/v/huis-en-inrichting/banken-complete-zithoeken/m2422272513-bank-lichtbeige-ribstof-3-zits-ottomaan-gloednieuw",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/6f2b52e3-eac8-4201-8393-a5795b3a7128?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

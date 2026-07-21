@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-21T01:29:16",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "1527798181",
+      "seller_key": "semi trapstoffering",
+      "seller_nickname": "Semi trapstoffering",
+      "seller_profile_url": null,
+      "seller_registered_raw": "20 jaar op Marktplaats",
+      "seller_registered_date": "2006-07-26",
+      "published_raw": "Sinds 23 jun '26 Advertentienummer: a1527798181",
+      "published_date": "2026-06-23",
+      "title": "PVC klik en plak Belakos, Ambiant, La Bella Maison",
+      "price": "€ 39,95 per m²",
+      "listing_url": "https://www.marktplaats.nl/v/huis-en-inrichting/stoffering-vloerbedekking/a1527798181-pvc-klik-en-plak-belakos-ambiant-la-bella-maison",
+      "photo_url": "https://admarkt-cdn.marktplaats.com/api/v1/icas-mp-pro-admarkt/images/b5/b5bb0188-e205-4b8c-8522-d7a2574ad6b9?rule=eps_83"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-07-21T01:33:00",
+  "count": 2,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "1528580791",
+      "seller_key": "dirksenscooters",
+      "seller_nickname": "Dirksenscooters",
+      "seller_profile_url": null,
+      "seller_registered_raw": "20 jaar op Marktplaats",
+      "seller_registered_date": "2006-07-26",
+      "published_raw": "Sinds 14 jul '26 Advertentienummer: a1528580791",
+      "published_date": "2026-07-14",
+      "title": "GTS PURE NIEUWE KLEUREN !!!",
+      "price": "€ 1.975,00",
+      "listing_url": "https://www.marktplaats.nl/v/fietsen-en-brommers/scooters-overige-merken/a1528580791-gts-pure-nieuwe-kleuren",
+      "photo_url": "https://admarkt-cdn.marktplaats.com/api/v1/icas-mp-pro-admarkt/images/76/761c1cdb-cfb6-4e93-afda-6cf50e886ada?rule=eps_83"
+    },
+    {
+      "ad_id": "1528079479",
+      "seller_key": "e-supply bikes",
+      "seller_nickname": "E-supply Bikes",
+      "seller_profile_url": null,
+      "seller_registered_raw": "19 jaar op Marktplaats",
+      "seller_registered_date": "2007-07-26",
+      "published_raw": "Sinds",
+      "published_date": null,
+      "title": "OUXI S73 Loopfiets - Garantie - Levering - Reparaties",
+      "price": "Bij aanschaf van een fatbike of mini fatbike krijgt u momenteel een gratis onderhoudsbeurt bij 500 km t.w.v. €79,-.",
+      "listing_url": "https://www.marktplaats.nl/v/kinderen-en-baby-s/speelgoed-buiten-voertuigen-en-loopfietsen/a1528079479-ouxi-s73-loopfiets-garantie-levering-reparaties",
+      "photo_url": "https://admarkt-cdn.marktplaats.com/api/v1/icas-mp-pro-admarkt/images/c5/c5134af5-bc1b-4105-9af8-004a462d1666?rule=eps_83"
+    }
+  ]
+}

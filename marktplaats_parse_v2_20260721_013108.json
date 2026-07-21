@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-07-21T01:31:08",
+  "count": 2,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "1502759518",
+      "seller_key": "uithangborden-smeedijer",
+      "seller_nickname": "uithangborden-smeedijer",
+      "seller_profile_url": null,
+      "seller_registered_raw": "19 jaar op Marktplaats",
+      "seller_registered_date": "2007-07-26",
+      "published_raw": "Sinds 16 jun '24 Advertentienummer: a1502759518",
+      "published_date": "2024-06-16",
+      "title": "Nostalgisch Naambord Eindhoven Smeedijzer uithangbord",
+      "price": "",
+      "listing_url": "https://www.marktplaats.nl/v/tuin-en-terras/tuinhekken-en-hekwerk/a1502759518-nostalgisch-naambord-eindhoven-smeedijzer-uithangbord",
+      "photo_url": "https://admarkt-cdn.marktplaats.com/api/v1/icas-mp-pro-admarkt/images/ab/ab2e3bc8-6410-4a19-81a5-f653b68705ae?rule=eps_83"
+    },
+    {
+      "ad_id": "1519687679",
+      "seller_key": "de keij betonplaten b.v.",
+      "seller_nickname": "De Keij Betonplaten B.V.",
+      "seller_profile_url": null,
+      "seller_registered_raw": "18 jaar op Marktplaats",
+      "seller_registered_date": "2008-07-25",
+      "published_raw": "Sinds 31 okt '25 Advertentienummer: a1519687679",
+      "published_date": "2025-10-31",
+      "title": "Partij gebruikte betonplaten / stelconplaten gezocht",
+      "price": "",
+      "listing_url": "https://www.marktplaats.nl/v/tuin-en-terras/tegels-en-klinkers/a1519687679-partij-gebruikte-betonplaten-stelconplaten-gezocht",
+      "photo_url": "https://admarkt-cdn.marktplaats.com/api/v1/icas-mp-pro-admarkt/images/17/17c2d614-62b3-4921-b4f5-1089d71aea62?rule=eps_83"
+    }
+  ]
+}

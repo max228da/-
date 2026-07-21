@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-21T00:02:54",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2404872849",
+      "seller_key": "atta",
+      "seller_nickname": "Atta",
+      "seller_profile_url": null,
+      "seller_registered_raw": "13 jaar op Marktplaats",
+      "seller_registered_date": "2013-07-24",
+      "published_raw": "Sinds 29 mei '26 Advertentienummer: m2404872849",
+      "published_date": "2026-05-29",
+      "title": "Universal Audio Apollo x6 Thunderbolt 3 Audio Interface",
+      "price": "€ 1.350,00",
+      "listing_url": "https://www.marktplaats.nl/v/muziek-en-instrumenten/overige-muziek-en-instrumenten/m2404872849-universal-audio-apollo-x6-thunderbolt-3-audio-interface",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/7a81fa85-6cf1-403f-bf71-a1ecb834e045?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

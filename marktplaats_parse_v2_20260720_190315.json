@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-07-20T19:03:15",
+  "count": 2,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2422245332",
+      "seller_key": "hendrik",
+      "seller_nickname": "Hendrik",
+      "seller_profile_url": null,
+      "seller_registered_raw": "2 jaar op Marktplaats",
+      "seller_registered_date": "2024-07-20",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422245332",
+      "published_date": "2026-07-20",
+      "title": "Robuuste eettafel van massief eikenhout",
+      "price": "Vraagprijs: €1.150",
+      "listing_url": "https://www.marktplaats.nl/v/huis-en-inrichting/tafels-eettafels/m2422245332-robuuste-eettafel-van-massief-eikenhout",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/e43dd789-1030-4849-81cc-6f7db1ea20c5?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2422245064",
+      "seller_key": "s",
+      "seller_nickname": "S",
+      "seller_profile_url": null,
+      "seller_registered_raw": "1 week op Marktplaats",
+      "seller_registered_date": "2026-07-13",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422245064",
+      "published_date": "2026-07-20",
+      "title": "Louis Vuitton schoenen heren orgineel",
+      "price": "€ 500,00",
+      "listing_url": "https://www.marktplaats.nl/v/kleding-heren/schoenen/m2422245064-louis-vuitton-schoenen-heren-orgineel",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/a5b89067-2a12-4e18-8c93-7994b407234b?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

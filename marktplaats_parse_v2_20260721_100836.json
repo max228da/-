@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-21T10:08:36",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2422378933",
+      "seller_key": "jr van wilderen",
+      "seller_nickname": "JR van wilderen",
+      "seller_profile_url": null,
+      "seller_registered_raw": "13 jaar op Marktplaats",
+      "seller_registered_date": "2013-07-24",
+      "published_raw": "Sinds 21 jul '26 Advertentienummer: m2422378933",
+      "published_date": "2026-07-21",
+      "title": "Ricoh SP 8400E printer met 3 toners, incl. factuur",
+      "price": "3x originele Ricoh SP 8400 toners (nieuw, totale waarde €210)",
+      "listing_url": "https://www.marktplaats.nl/v/computers-en-software/printers/m2422378933-ricoh-sp-8400e-printer-met-3-toners-incl-factuur",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/df85feb8-2c00-4c49-b97d-7e9e7a944a04?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

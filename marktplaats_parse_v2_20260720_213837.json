@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-20T21:38:37",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2374735336",
+      "seller_key": "autodarts",
+      "seller_nickname": "Autodarts",
+      "seller_profile_url": null,
+      "seller_registered_raw": "16 jaar op Marktplaats",
+      "seller_registered_date": "2010-07-24",
+      "published_raw": "Sinds 8 mar '26 Advertentienummer: m2374735336",
+      "published_date": "2026-03-08",
+      "title": "Automatisch score systeem van Autodarts",
+      "price": "€ 475,- Compleet systeem (ring + AIO PC touchscreen met Windows 10)",
+      "listing_url": "https://www.marktplaats.nl/v/sport-en-fitness/darts/m2374735336-automatisch-score-systeem-van-autodarts",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/d50d4951-9cf1-4346-93f2-9fe5cbe416e0?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

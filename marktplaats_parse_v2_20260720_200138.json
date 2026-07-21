@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-20T20:01:38",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2420563020",
+      "seller_key": "ilona",
+      "seller_nickname": "Ilona",
+      "seller_profile_url": null,
+      "seller_registered_raw": "12 jaar op Marktplaats",
+      "seller_registered_date": "2014-07-23",
+      "published_raw": "Sinds 15 jul '26 Advertentienummer: m2420563020",
+      "published_date": "2026-07-15",
+      "title": "KTM 125 SX 2027 0u – Nieuw| Direct leverbaar | Factory",
+      "price": "€ 9.000,00",
+      "listing_url": "https://www.marktplaats.nl/v/fietsen-en-brommers/brommers-crossbrommers/m2420563020-ktm-125-sx-2027-0u-nieuw-direct-leverbaar-factory",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/f2b46b15-c9cc-44dc-9a81-8e79262b260e?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

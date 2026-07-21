@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-07-20T19:53:11",
+  "count": 2,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2418351739",
+      "seller_key": "dimitri",
+      "seller_nickname": "Dimitri",
+      "seller_profile_url": null,
+      "seller_registered_raw": "20 jaar op Marktplaats",
+      "seller_registered_date": "2006-07-25",
+      "published_raw": "Sinds 8 jul '26 Advertentienummer: m2418351739",
+      "published_date": "2026-07-08",
+      "title": "SummaCut D60 Snijplotter compleet met computer + software",
+      "price": "€ 550,00",
+      "listing_url": "https://www.marktplaats.nl/v/computers-en-software/printers/m2418351739-summacut-d60-snijplotter-compleet-met-computer-software",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/8bf29187-b4ca-4a85-af82-4709b3d1f6a1?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2422261223",
+      "seller_key": "nancy van den nieuwendijk",
+      "seller_nickname": "Nancy van den Nieuwendijk",
+      "seller_profile_url": null,
+      "seller_registered_raw": "12 jaar op Marktplaats",
+      "seller_registered_date": "2014-07-23",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422261223",
+      "published_date": "2026-07-20",
+      "title": "Commode Futura met ledikant en matras",
+      "price": "Bieden",
+      "listing_url": "https://www.marktplaats.nl/v/kinderen-en-baby-s/kinderkamer-bedden/m2422261223-commode-futura-met-ledikant-en-matras",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/76e9c411-cf3d-4a81-be3f-c302b5729d68?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

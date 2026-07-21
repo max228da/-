@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-20T23:44:00",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2422326277",
+      "seller_key": "michel trietsch",
+      "seller_nickname": "Michel Trietsch",
+      "seller_profile_url": null,
+      "seller_registered_raw": "21 jaar op Marktplaats",
+      "seller_registered_date": "2005-07-25",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422326277",
+      "published_date": "2026-07-20",
+      "title": "NETGEAR ProSAFE Plus Switch JGS524PE 24-poorts PoE",
+      "price": "€ 128,00",
+      "listing_url": "https://www.marktplaats.nl/v/computers-en-software/netwerk-switches/m2422326277-netgear-prosafe-plus-switch-jgs524pe-24-poorts-poe",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/2407482d-ec1f-4d37-89bd-5d4099d3cd0e?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

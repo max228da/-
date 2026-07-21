@@ -1,0 +1,82 @@
+{
+  "generated_at": "2026-07-20T22:26:00",
+  "count": 5,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2419079792",
+      "seller_key": "guus",
+      "seller_nickname": "Guus",
+      "seller_profile_url": null,
+      "seller_registered_raw": "18 jaar op Marktplaats",
+      "seller_registered_date": "2008-07-24",
+      "published_raw": "Sinds 10 jul '26 Advertentienummer: m2419079792",
+      "published_date": "2026-07-10",
+      "title": "Fjallraven Expedition 1974 (EU 54/56, USA maat XL)",
+      "price": "€ 120,00",
+      "listing_url": "https://www.marktplaats.nl/v/kleding-heren/jassen-zomer/m2419079792-fjallraven-expedition-1974-eu-54-56-usa-maat-xl",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/19c2bc20-71ea-4a1f-928c-67f2d8ed3799?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2418517668",
+      "seller_key": "andrea thompson",
+      "seller_nickname": "Andrea Thompson",
+      "seller_profile_url": null,
+      "seller_registered_raw": "9 jaar op Marktplaats",
+      "seller_registered_date": "2017-07-22",
+      "published_raw": "Sinds 8 jul '26 Advertentienummer: m2418517668",
+      "published_date": "2026-07-08",
+      "title": "Montessori huisbed 90x200 met uitschuifbare lade",
+      "price": "Bieden",
+      "listing_url": "https://www.marktplaats.nl/v/kinderen-en-baby-s/kinderkamer-bedden/m2418517668-montessori-huisbed-90x200-met-uitschuifbare-lade",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/f36631ee-9441-48eb-a2ef-a64f657aa087?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2422300654",
+      "seller_key": "u.r.",
+      "seller_nickname": "U.R.",
+      "seller_profile_url": null,
+      "seller_registered_raw": "5 jaar op Marktplaats",
+      "seller_registered_date": "2021-07-21",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422300654",
+      "published_date": "2026-07-20",
+      "title": "Black Lotus VIP MagicCon Amsterdam Bag",
+      "price": "€ 100,00",
+      "listing_url": "https://www.marktplaats.nl/v/hobby-en-vrije-tijd/verzamelkaartspellen-magic-the-gathering/m2422300654-black-lotus-vip-magiccon-amsterdam-bag",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/9eb29237-f63a-49b0-b283-6cab2c2efce1?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2422303750",
+      "seller_key": "you interactive",
+      "seller_nickname": "You interactive",
+      "seller_profile_url": null,
+      "seller_registered_raw": "19 jaar op Marktplaats",
+      "seller_registered_date": "2007-07-25",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422303750",
+      "published_date": "2026-07-20",
+      "title": "Megakorting t/m 31-7-2026 op borduurpakketten van Lanarte",
+      "price": "€ 2,89",
+      "listing_url": "https://www.marktplaats.nl/v/hobby-en-vrije-tijd/borduren-en-borduurmachines/m2422303750-megakorting-t-m-31-7-2026-op-borduurpakketten-van-lanarte",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/6cc0f23b-ebc6-4447-b660-35801b98c72b?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2419202161",
+      "seller_key": "jos",
+      "seller_nickname": "Jos",
+      "seller_profile_url": null,
+      "seller_registered_raw": "6 maanden op Marktplaats",
+      "seller_registered_date": "2026-01-21",
+      "published_raw": "Sinds 11 jul '26 Advertentienummer: m2419202161",
+      "published_date": "2026-07-11",
+      "title": "Hammondorgel met 2 klavieren en veel functies",
+      "price": "€ 500,00",
+      "listing_url": "https://www.marktplaats.nl/v/muziek-en-instrumenten/orgels/m2419202161-hammondorgel-met-2-klavieren-en-veel-functies",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/41474470-7403-4409-bb49-aff71e618bd3?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

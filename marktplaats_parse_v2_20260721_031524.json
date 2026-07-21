@@ -1,0 +1,54 @@
+{
+  "generated_at": "2026-07-21T03:15:24",
+  "count": 3,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2422349309",
+      "seller_key": "sss",
+      "seller_nickname": "SSS",
+      "seller_profile_url": null,
+      "seller_registered_raw": "14 jaar op Marktplaats",
+      "seller_registered_date": "2012-07-24",
+      "published_raw": "Sinds 21 jul '26 Advertentienummer: m2422349309",
+      "published_date": "2026-07-21",
+      "title": "Lieve kater van 5 maanden",
+      "price": "€ 350,00",
+      "listing_url": "https://www.marktplaats.nl/v/dieren-en-toebehoren/katten-en-kittens-raskatten-korthaar/m2422349309-lieve-kater-van-5-maanden",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/0ca5ccff-6f40-4de9-9056-94f27e2e4cd5?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2419887044",
+      "seller_key": "k.",
+      "seller_nickname": "K.",
+      "seller_profile_url": null,
+      "seller_registered_raw": "15 jaar op Marktplaats",
+      "seller_registered_date": "2011-07-25",
+      "published_raw": "Sinds 13 jul '26 Advertentienummer: m2419887044",
+      "published_date": "2026-07-13",
+      "title": "Helemaal nieuw ongebruikt RedSea G3 500 Peninsula met kast W",
+      "price": "€2000,-",
+      "listing_url": "https://www.marktplaats.nl/v/dieren-en-toebehoren/vissen-aquaria-en-toebehoren/m2419887044-helemaal-nieuw-ongebruikt-redsea-g3-500-peninsula-met-kast-w",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/6ff3de10-5f2b-441b-8c84-6c4dca2a7bb5?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2422343784",
+      "seller_key": "lindsay de haan",
+      "seller_nickname": "Lindsay De haan",
+      "seller_profile_url": null,
+      "seller_registered_raw": "2 jaar op Marktplaats",
+      "seller_registered_date": "2024-07-21",
+      "published_raw": "Sinds 21 jul '26 Advertentienummer: m2422343784",
+      "published_date": "2026-07-21",
+      "title": "Hamster met kooi",
+      "price": "€ 20,00",
+      "listing_url": "https://www.marktplaats.nl/v/dieren-en-toebehoren/knaagdieren-en-konijnen-hokken-en-kooien/m2422343784-hamster-met-kooi",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/0ebf2b57-5592-4544-97dc-eea6fa6d2949?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

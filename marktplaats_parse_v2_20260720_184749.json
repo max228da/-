@@ -1,0 +1,68 @@
+{
+  "generated_at": "2026-07-20T18:47:49",
+  "count": 4,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2422158212",
+      "seller_key": "rb",
+      "seller_nickname": "RB",
+      "seller_profile_url": null,
+      "seller_registered_raw": "20 jaar op Marktplaats",
+      "seller_registered_date": "2006-07-25",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422158212",
+      "published_date": "2026-07-20",
+      "title": "Loopband met helling - 1-6 km p/u",
+      "price": "€ 70,00",
+      "listing_url": "https://www.marktplaats.nl/v/sport-en-fitness/fitnessapparatuur/m2422158212-loopband-met-helling-1-6-km-p-u",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/09c00490-4e31-4841-a888-1854f867ebb6?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2419910630",
+      "seller_key": "multimedia",
+      "seller_nickname": "multimedia",
+      "seller_profile_url": null,
+      "seller_registered_raw": "2 jaar op Marktplaats",
+      "seller_registered_date": "2024-07-20",
+      "published_raw": "Sinds 13 jul '26 Advertentienummer: m2419910630",
+      "published_date": "2026-07-13",
+      "title": "4x HEAD Graphene XT Prestige MP / Pro L3 (matching set)",
+      "price": "Price: €180 (or reasonable offers considered) Prefer to sell as one complete set.",
+      "listing_url": "https://www.marktplaats.nl/v/sport-en-fitness/tennis/m2419910630-4x-head-graphene-xt-prestige-mp-pro-l3-matching-set",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/b74d1a50-68ae-4e1e-b4f1-bd0e5757f462?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2422132038",
+      "seller_key": "karm koopman",
+      "seller_nickname": "karm koopman",
+      "seller_profile_url": null,
+      "seller_registered_raw": "2 jaar op Marktplaats",
+      "seller_registered_date": "2024-07-20",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422132038",
+      "published_date": "2026-07-20",
+      "title": "Complete Halterset met Squat Rack, Gewichten, Halters en Rek",
+      "price": "Bieden",
+      "listing_url": "https://www.marktplaats.nl/v/sport-en-fitness/fitnessmaterialen/m2422132038-complete-halterset-met-squat-rack-gewichten-halters-en-rek",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/7eead6cb-1e5d-40d9-b7ef-ce85b3b5fa4c?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2420531606",
+      "seller_key": "aroen",
+      "seller_nickname": "Aroen",
+      "seller_profile_url": null,
+      "seller_registered_raw": "11 maanden op Marktplaats",
+      "seller_registered_date": "2025-08-24",
+      "published_raw": "Sinds 15 jul '26 Advertentienummer: m2420531606",
+      "published_date": "2026-07-15",
+      "title": "Pokemon hits verschillende sets",
+      "price": "Bieden",
+      "listing_url": "https://www.marktplaats.nl/v/hobby-en-vrije-tijd/verzamelkaartspellen-pokemon/m2420531606-pokemon-hits-verschillende-sets",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/f5132701-56cb-4f61-ad62-333764afd81c?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

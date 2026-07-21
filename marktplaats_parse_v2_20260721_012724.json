@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-21T01:27:24",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2422342936",
+      "seller_key": "sven beensen",
+      "seller_nickname": "Sven Beensen",
+      "seller_profile_url": null,
+      "seller_registered_raw": "4 jaar op Marktplaats",
+      "seller_registered_date": "2022-07-22",
+      "published_raw": "Sinds 21 jul '26 Advertentienummer: m2422342936",
+      "published_date": "2026-07-21",
+      "title": "Valorant Account",
+      "price": "€475 (or send your best offer)",
+      "listing_url": "https://www.marktplaats.nl/v/computers-en-software/audio-software/m2422342936-valorant-account",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/c5720eef-8637-4a77-872a-590619f8099e?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-21T02:25:27",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2418781192",
+      "seller_key": "beq1990",
+      "seller_nickname": "beq1990",
+      "seller_profile_url": null,
+      "seller_registered_raw": "4 maanden op Marktplaats",
+      "seller_registered_date": "2026-03-23",
+      "published_raw": "Sinds 9 jul '26 Advertentienummer: m2418781192",
+      "published_date": "2026-07-09",
+      "title": "Fender American Vintage ii 1961 Stratocaster Fiesta Red",
+      "price": "€ 1.650,00",
+      "listing_url": "https://www.marktplaats.nl/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-elektrisch/m2418781192-fender-american-vintage-ii-1961-stratocaster-fiesta-red",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/bbed8efe-4f9c-4e02-8aaa-887d0add4714?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

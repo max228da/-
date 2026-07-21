@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-20T23:49:19",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2422326362",
+      "seller_key": "-_-",
+      "seller_nickname": "-_-",
+      "seller_profile_url": null,
+      "seller_registered_raw": "19 jaar op Marktplaats",
+      "seller_registered_date": "2007-07-25",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422326362",
+      "published_date": "2026-07-20",
+      "title": "Geteste ️Australian cattle dog x australian shepherd pups",
+      "price": "",
+      "listing_url": "https://www.marktplaats.nl/v/dieren-en-toebehoren/honden-herdershonden-en-veedrijvers/m2422326362-geteste-australian-cattle-dog-x-australian-shepherd-pups",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/d9c8fe11-2e1d-49a1-9036-d6cb1a606308?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

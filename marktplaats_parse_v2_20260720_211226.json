@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-20T21:12:26",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2422287967",
+      "seller_key": "jaap blok",
+      "seller_nickname": "Jaap Blok",
+      "seller_profile_url": null,
+      "seller_registered_raw": "3 jaar op Marktplaats",
+      "seller_registered_date": "2023-07-21",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422287967",
+      "published_date": "2026-07-20",
+      "title": "Cube Kathmandu Hybrid Pro 800 (2026) - Nieuwstaat",
+      "price": "Te koop: Een zo goed als nieuwe Trackingbike merk Cube Kathmandu Hybrid Pro 800 + Bosch Kiox500 display, modeljaar 2026, geleverd in februari 2026. Gekocht voor €3599,00. Deze e-bike verkeert in absolute nieuwstaat en heeft geen beschadigingen. De fiets is uitgerust met een krachtige Bosch Performance Line CX motor met 120Nm koppel en een indrukwekkende 800 Watt accu. Er is slechts 427 km mee gereden, waarvan 4 km in Sport-modus, 10 km in Tour-modus, 247 km in Eco-modus en 166 km 'Off' (zonder ondersteuning). De actieradius in Eco-modus is getest en bedraagt minimaal 175 km, met nog eens 50 km extra mogelijk. Een ideale fiets voor lange tochten en dagelijks gebruik.",
+      "listing_url": "https://www.marktplaats.nl/v/fietsen-en-brommers/elektrische-fietsen/m2422287967-cube-kathmandu-hybrid-pro-800-2026-nieuwstaat",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/fba4b3ea-e919-4a36-94d9-e24a3b127bd3?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

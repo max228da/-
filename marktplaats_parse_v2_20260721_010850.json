@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-07-21T01:08:50",
+  "count": 2,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2422322066",
+      "seller_key": "rense",
+      "seller_nickname": "Rense",
+      "seller_profile_url": null,
+      "seller_registered_raw": "11 jaar op Marktplaats",
+      "seller_registered_date": "2015-07-24",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422322066",
+      "published_date": "2026-07-20",
+      "title": "Elektron Digitakt II + Cover – Zo Goed Als Nieuw + Garantie",
+      "price": "Vraagprijs: € 800",
+      "listing_url": "https://www.marktplaats.nl/v/computers-en-software/vintage-computers/m2422322066-elektron-digitakt-ii-cover-zo-goed-als-nieuw-garantie",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/f4745b76-a106-4872-8ca2-a44f35d94ae3?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "1515747531",
+      "seller_key": "gruppo corso wholesale b.v.",
+      "seller_nickname": "Gruppo Corso Wholesale B.V.",
+      "seller_profile_url": null,
+      "seller_registered_raw": "19 jaar op Marktplaats",
+      "seller_registered_date": "2007-07-26",
+      "published_raw": "Sinds 10 jul '25 Advertentienummer: a1515747531",
+      "published_date": "2025-07-10",
+      "title": "Kledingrek op wielen | 5000 OP VOORRAAD | Verstelbaar 200kg",
+      "price": "",
+      "listing_url": "https://www.marktplaats.nl/v/huis-en-inrichting/overige-huis-en-inrichting/a1515747531-kledingrek-op-wielen-5000-op-voorraad-verstelbaar-200kg",
+      "photo_url": "https://admarkt-cdn.marktplaats.com/api/v1/icas-mp-pro-admarkt/images/40/40a470a2-f723-4c1b-823d-a0dee365d1ca?rule=eps_83"
+    }
+  ]
+}

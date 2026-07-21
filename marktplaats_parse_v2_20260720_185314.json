@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-20T18:53:14",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2416596001",
+      "seller_key": "pro tech",
+      "seller_nickname": "Pro Tech",
+      "seller_profile_url": null,
+      "seller_registered_raw": "1 jaar op Marktplaats",
+      "seller_registered_date": "2025-07-20",
+      "published_raw": "Sinds 3 jul '26 Advertentienummer: m2416596001",
+      "published_date": "2026-07-03",
+      "title": "AirPods Pro 3 ⭐️⭐️⭐️⭐️⭐️ | Fabrieksgeseald & Ultieme ANC",
+      "price": "€ 34,96",
+      "listing_url": "https://www.marktplaats.nl/v/telecommunicatie/mobiele-telefoons-oordopjes/m2416596001-airpods-pro-3-fabrieksgeseald-ultieme-anc",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/7e959870-ae1a-45b9-bd96-48e3d6c602dd?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

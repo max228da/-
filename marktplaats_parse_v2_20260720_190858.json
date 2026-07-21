@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-07-20T19:08:58",
+  "count": 2,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2391269666",
+      "seller_key": "wifilinks",
+      "seller_nickname": "WifiLinks",
+      "seller_profile_url": null,
+      "seller_registered_raw": "4 jaar op Marktplaats",
+      "seller_registered_date": "2022-07-21",
+      "published_raw": "Sinds 21 apr '26 Advertentienummer: m2391269666",
+      "published_date": "2026-04-21",
+      "title": "📶*ACTIE* Zyxel WX5600 - T0 AX6000 Access Point Nieuw",
+      "price": "📫Verzending naar DHL punt €4,95, aan huis €6,95",
+      "listing_url": "https://www.marktplaats.nl/v/computers-en-software/accesspoints/m2391269666-actie-zyxel-wx5600-t0-ax6000-access-point-nieuw",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/ffa3ded9-4acf-4b3e-8d01-9d4ad6b48fb6?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2422247544",
+      "seller_key": "laurens",
+      "seller_nickname": "Laurens",
+      "seller_profile_url": null,
+      "seller_registered_raw": "12 jaar op Marktplaats",
+      "seller_registered_date": "2014-07-23",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422247544",
+      "published_date": "2026-07-20",
+      "title": "E-Bike Koga E-Nova PT--- SLECHTS 1730 KM GEREDEN---",
+      "price": "De fiets is nieuw gekocht bij Metz op Ameland. Nieuwprijs €4.000,- , de factuur is nog in m'n bezit.",
+      "listing_url": "https://www.marktplaats.nl/v/fietsen-en-brommers/elektrische-fietsen/m2422247544-e-bike-koga-e-nova-pt-slechts-1730-km-gereden",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/6dd4a21f-f4ba-48be-b252-e273af976dc3?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

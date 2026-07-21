@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-20T19:15:03",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2401628062",
+      "seller_key": "sticker koning",
+      "seller_nickname": "Sticker koning",
+      "seller_profile_url": null,
+      "seller_registered_raw": "20 jaar op Marktplaats",
+      "seller_registered_date": "2006-07-25",
+      "published_raw": "Sinds 20 mei '26 Advertentienummer: m2401628062",
+      "published_date": "2026-05-20",
+      "title": "GEZOCHT LEGO GEZOCHT LEGO GEZOCHT LEGO",
+      "price": "€ 3,99",
+      "listing_url": "https://www.marktplaats.nl/v/kinderen-en-baby-s/speelgoed-duplo-en-lego/m2401628062-gezocht-lego-gezocht-lego-gezocht-lego",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/3123caab-70c1-4f57-890e-3f7416326e9f?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

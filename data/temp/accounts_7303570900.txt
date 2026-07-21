@@ -1,0 +1,12 @@
+{login};{password};{authenticatorToken};{appPassword};{authenticatorUrl};{messagesUrl}
+
+abasotuhej890@gmail.com;ser2FX5OjNsRJ37;yrsapedvohei5ovprtmf7m4b35rwevax;drhqfngusinjdqkj;https://2fa.fb.tools/yrsapedvohei5ovprtmf7m4b35rwevax;https://webhook.style/messages/SgTTAVrpuawO5sxVB_lzLGXuIIA2RmeMCUwC2RTe5wz_626SZ
+malejudidi11@gmail.com;OzDNa9Pot90KW;7n6shpnm3lkk5gnlglav4gfutqyqaogs;lawzdomawpzecxuy;https://2fa.fb.tools/7n6shpnm3lkk5gnlglav4gfutqyqaogs;https://webhook.style/messages/Uf1w012w8WLMxet2qPANyldD3Bx0IUrZ8Utp0ogJp-h08eiQAFbw
+yafumixup40@gmail.com;rmHT1lLhT9J1;3lsc5fkzc4iy7h3psdson2nr3zje6e3c;yizkqjcdtnhlvgmt;https://2fa.fb.tools/3lsc5fkzc4iy7h3psdson2nr3zje6e3c;https://webhook.style/messages/QALgfm75PGRj9K7pIJjbnRJoB25Emi9jnKlcoc4ECSn4gYiz1-
+imumoyiyavom75@gmail.com;qXJieFrdePpkAfa;qbfn7oatpqqkeus3ghli6iangpkbtqtr;dhyovjcutaoktsqe;https://2fa.fb.tools/qbfn7oatpqqkeus3ghli6iangpkbtqtr;https://webhook.style/messages/INVsuA-16bs6djHFqXA828wZVbIKPrCHwUAMZLV2rhni0GZo
+uzenanafav66@gmail.com;neui4z0v13tF;tqsvpo4frcemg6pbyeptgvy7bw2drkiy;wgwavrjbhfgejdls;https://2fa.fb.tools/tqsvpo4frcemg6pbyeptgvy7bw2drkiy;https://webhook.style/messages/HauS1Lc-kjqI7UnUvAJw9gKfSl6bNEF8m6BO56dS9TJiPCKvq
+esokurovira838@gmail.com;yJNt3INzj2NoHfd;sz5dmx4icrx76jgzqkavv5xqlcimit3k;udpshjmmimajenfc;https://2fa.fb.tools/sz5dmx4icrx76jgzqkavv5xqlcimit3k;https://webhook.style/messages/wCkHaxjSh4hTPDoC5gYxEIFoavlhqEu89GLaJCP2idJtyKbI
+ajedeyoton144@gmail.com;rM69HHSD2UQPsk;mtsg353ovnwic4fl46vam4w2apcq3pmq;epweubzlamwrojui;https://2fa.fb.tools/mtsg353ovnwic4fl46vam4w2apcq3pmq;https://webhook.style/messages/qNfRHi_3xkW96kZFo45VfQJqp10F8sOkyOIEmSjQc2TY_1qgq
+hojevuhefom57@gmail.com;YVgMBw1mc9qx;jz5hjr7bcj4xmyomglahnbxzc7s55qua;aqqclkyphuvusnxa;https://2fa.fb.tools/jz5hjr7bcj4xmyomglahnbxzc7s55qua;https://webhook.style/messages/5Yk0LFw9nnziPF9nKw_hIcW5Cw40BSHeyEgK-pRrMCGMZm16Vns
+feqasiluwabi96@gmail.com;rNWpeOhBbms8zu;ac6glrkvv5owrkjax4kes7ja73ougffh;lhxszcqmeempfhyb;https://2fa.fb.tools/ac6glrkvv5owrkjax4kes7ja73ougffh;https://webhook.style/messages/QuE1hmRT122PwQnP--SjHmtuiOoaS_sYyStJTzphDydTicNJG95Q
+ebikebiku40@gmail.com;bQ3eyIt6uv9NG;wddne4b5esg6d7xemzx6ah6s62ubf5lx;pkdrunutuzihjxvu;https://2fa.fb.tools/wddne4b5esg6d7xemzx6ah6s62ubf5lx;https://webhook.style/messages/-O1jcEcVZXvvrMyq-CCVYLL4f73AZicDd-ZpN3SBHlpURWa0

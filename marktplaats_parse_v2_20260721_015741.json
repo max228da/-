@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-21T01:57:41",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "1524158157",
+      "seller_key": "mapro schutting",
+      "seller_nickname": "MAPRO schutting",
+      "seller_profile_url": null,
+      "seller_registered_raw": "10 jaar op Marktplaats",
+      "seller_registered_date": "2016-07-23",
+      "published_raw": "Sinds 30 mar '26 Advertentienummer: a1524158157",
+      "published_date": "2026-03-30",
+      "title": "Grenen Schutting Verticaal Natuurlijke Look vanaf 105,- p/m",
+      "price": "Kies voor een tijdloze en ruimtelijke tuin met onze verticale grenen schuttingen. Nu al vanaf €105,-!",
+      "listing_url": "https://www.marktplaats.nl/v/tuin-en-terras/schuttingen/a1524158157-grenen-schutting-verticaal-natuurlijke-look-vanaf-105-p-m",
+      "photo_url": "https://admarkt-cdn.marktplaats.com/api/v1/icas-mp-pro-admarkt/images/bc/bca59bfb-8eda-433d-86e2-6a9b071c3a54?rule=eps_83"
+    }
+  ]
+}

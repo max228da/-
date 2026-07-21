@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-21T01:19:21",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2419576656",
+      "seller_key": "jose",
+      "seller_nickname": "Jose",
+      "seller_profile_url": null,
+      "seller_registered_raw": "7 jaar op Marktplaats",
+      "seller_registered_date": "2019-07-23",
+      "published_raw": "Sinds 12 jul '26 Advertentienummer: m2419576656",
+      "published_date": "2026-07-12",
+      "title": "Linnen broek van Penn&ink.",
+      "price": "€ 100,00",
+      "listing_url": "https://www.marktplaats.nl/v/kleding-dames/dames-kledingpakketten/m2419576656-linnen-broek-van-penn-ink",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/b8b8dae9-7b64-4cf0-98ff-00309570c9ab?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

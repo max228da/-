@@ -1,0 +1,54 @@
+{
+  "generated_at": "2026-07-20T23:08:30",
+  "count": 3,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "1523843386",
+      "seller_key": "mini and more",
+      "seller_nickname": "Mini and More",
+      "seller_profile_url": null,
+      "seller_registered_raw": "9 jaar op Marktplaats",
+      "seller_registered_date": "2017-07-22",
+      "published_raw": "Sinds 19 mar '26 Advertentienummer: a1523843386",
+      "published_date": "2026-03-19",
+      "title": "50% korting B.Nosy zomercollectie! B.Nosy outlet meisjes",
+      "price": "Verzenden voor € 2,95",
+      "listing_url": "https://www.marktplaats.nl/v/kinderen-en-baby-s/kinderkleding-maat-140/a1523843386-50-korting-b-nosy-zomercollectie-b-nosy-outlet-meisjes",
+      "photo_url": "https://admarkt-cdn.marktplaats.com/api/v1/icas-mp-pro-admarkt/images/b0/b04eb011-7992-4643-b983-bfd3c466abfa?rule=eps_83"
+    },
+    {
+      "ad_id": "2422319207",
+      "seller_key": "tessa van esch",
+      "seller_nickname": "Tessa van Esch",
+      "seller_profile_url": null,
+      "seller_registered_raw": "3 jaar op Marktplaats",
+      "seller_registered_date": "2023-07-21",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422319207",
+      "published_date": "2026-07-20",
+      "title": "Grote Ronja pop - handpop - knuffel - speelgoed",
+      "price": "Nieuwprijs is €92,50",
+      "listing_url": "https://www.marktplaats.nl/v/kinderen-en-baby-s/speelgoed-knuffels-en-pluche/m2422319207-grote-ronja-pop-handpop-knuffel-speelgoed",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/4ee26374-ec18-4f34-b65c-2f71b9a5fe3c?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2422310169",
+      "seller_key": "martin alberts",
+      "seller_nickname": "Martin Alberts",
+      "seller_profile_url": null,
+      "seller_registered_raw": "7 jaar op Marktplaats",
+      "seller_registered_date": "2019-07-22",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422310169",
+      "published_date": "2026-07-20",
+      "title": "Poppenhuis incl. Maileg muizen en accessoires",
+      "price": "€ 85,00",
+      "listing_url": "https://www.marktplaats.nl/v/kinderen-en-baby-s/speelgoed-poppenhuizen/m2422310169-poppenhuis-incl-maileg-muizen-en-accessoires",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/9a58f802-07bb-4452-985f-5648288f0b90?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

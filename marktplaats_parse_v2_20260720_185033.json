@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-20T18:50:33",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2415133112",
+      "seller_key": "mp-crew",
+      "seller_nickname": "Mp-crew",
+      "seller_profile_url": null,
+      "seller_registered_raw": "19 jaar op Marktplaats",
+      "seller_registered_date": "2007-07-25",
+      "published_raw": "Sinds 29 jun '26 Advertentienummer: m2415133112",
+      "published_date": "2026-06-29",
+      "title": "Pokémon Pikachu met Grijze Vilten Hoed. van Gogh. 10/9/Error",
+      "price": "Richtprijs €3300,-",
+      "listing_url": "https://www.marktplaats.nl/v/hobby-en-vrije-tijd/verzamelkaartspellen-pokemon/m2415133112-pokemon-pikachu-met-grijze-vilten-hoed-van-gogh-10-9-error",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/26d1e7f1-17a8-44cc-8d58-2bb9780d3d50?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

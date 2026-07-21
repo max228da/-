@@ -1,0 +1,68 @@
+{
+  "generated_at": "2026-07-21T01:25:28",
+  "count": 4,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2422340678",
+      "seller_key": "fleur",
+      "seller_nickname": "Fleur",
+      "seller_profile_url": null,
+      "seller_registered_raw": "1 jaar op Marktplaats",
+      "seller_registered_date": "2025-07-21",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422340678",
+      "published_date": "2026-07-20",
+      "title": "Lieve bonte duif (man)",
+      "price": "Bieden",
+      "listing_url": "https://www.marktplaats.nl/v/dieren-en-toebehoren/vogels-duiven/m2422340678-lieve-bonte-duif-man",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/7e1c8a7b-19fe-4b78-8e96-631ce179f797?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2403623615",
+      "seller_key": "pomsky shades of grey",
+      "seller_nickname": "Pomsky Shades of Grey",
+      "seller_profile_url": null,
+      "seller_registered_raw": "8 jaar op Marktplaats",
+      "seller_registered_date": "2018-07-23",
+      "published_raw": "Sinds 25 mei '26 Advertentienummer: m2403623615",
+      "published_date": "2026-05-25",
+      "title": "Gezonde Pomsky pups , ouders uitgebreid getest , mini Husky",
+      "price": "",
+      "listing_url": "https://www.marktplaats.nl/v/dieren-en-toebehoren/honden-poolhonden-keeshonden-en-oertypen/m2403623615-gezonde-pomsky-pups-ouders-uitgebreid-getest-mini-husky",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/0b5cb5ae-97ca-4cbd-95da-377604d49e51?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2422340098",
+      "seller_key": "jay",
+      "seller_nickname": "Jay",
+      "seller_profile_url": null,
+      "seller_registered_raw": "2 jaar op Marktplaats",
+      "seller_registered_date": "2024-07-21",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422340098",
+      "published_date": "2026-07-20",
+      "title": "Prachtige Britse kittens te koop ️",
+      "price": "€ 800,00",
+      "listing_url": "https://www.marktplaats.nl/v/dieren-en-toebehoren/katten-en-kittens-overige-katten/m2422340098-prachtige-britse-kittens-te-koop",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/e30f41cc-d6bf-45e5-98d1-6899bdc25b3e?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "1516481052",
+      "seller_key": "verkoopjepaardenwagen",
+      "seller_nickname": "Verkoopjepaardenwagen",
+      "seller_profile_url": null,
+      "seller_registered_raw": "3 jaar op Marktplaats",
+      "seller_registered_date": "2023-07-22",
+      "published_raw": null,
+      "published_date": null,
+      "title": "Wij kopen jouw paardenwagen! Bel: 0647922308",
+      "price": "",
+      "listing_url": "https://www.marktplaats.nl/v/dieren-en-toebehoren/paarden-en-pony-s-trailers-en-aanhangwagens/a1516481052-wij-kopen-jouw-paardenwagen-bel-0647922308",
+      "photo_url": "https://admarkt-cdn.marktplaats.com/api/v1/icas-mp-pro-admarkt/images/fd/fdd7dcba-ffdc-4c3b-b9f1-dd1353b734b0?rule=eps_83"
+    }
+  ]
+}

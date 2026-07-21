@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-20T18:58:53",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2422244050",
+      "seller_key": "s e",
+      "seller_nickname": "S E",
+      "seller_profile_url": null,
+      "seller_registered_raw": "12 jaar op Marktplaats",
+      "seller_registered_date": "2014-07-23",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422244050",
+      "published_date": "2026-07-20",
+      "title": "Dell All-in-One PC - Intel Core i7, 16GB RAM, 512GB SSD",
+      "price": "€ 649,00",
+      "listing_url": "https://www.marktplaats.nl/v/computers-en-software/desktop-pc-s/m2422244050-dell-all-in-one-pc-intel-core-i7-16gb-ram-512gb-ssd",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/c2a7bd1f-8ad4-4458-ae31-a3ae8d02ef28?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

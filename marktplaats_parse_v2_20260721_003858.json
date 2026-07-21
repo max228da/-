@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-21T00:38:58",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2422249903",
+      "seller_key": "marian van der zwaan",
+      "seller_nickname": "Marian van der Zwaan",
+      "seller_profile_url": null,
+      "seller_registered_raw": "2 jaar op Marktplaats",
+      "seller_registered_date": "2024-07-21",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422249903",
+      "published_date": "2026-07-20",
+      "title": "Hardhouten eettafel 160x90x78 cm",
+      "price": "€ 50,00",
+      "listing_url": "https://www.marktplaats.nl/v/huis-en-inrichting/tafels-eettafels/m2422249903-hardhouten-eettafel-160x90x78-cm",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/cdb91ef5-4a1a-4e1f-baa0-53db32dc966e?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

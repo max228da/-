@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-21T01:14:55",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "1527942684",
+      "seller_key": "keeslaurel premium acrylcases etb en boosterbox",
+      "seller_nickname": "Keeslaurel premium acrylcases ETB en Boosterbox",
+      "seller_profile_url": null,
+      "seller_registered_raw": "7 jaar op Marktplaats",
+      "seller_registered_date": "2019-07-23",
+      "published_raw": "Sinds 26 jun '26 Advertentienummer: a1527942684",
+      "published_date": "2026-06-26",
+      "title": "Premium Acryl Case Geschikt Voor Elite Trainer Box ETB",
+      "price": "",
+      "listing_url": "https://www.marktplaats.nl/v/hobby-en-vrije-tijd/verzamelkaartspellen-pokemon/a1527942684-premium-acryl-case-geschikt-voor-elite-trainer-box-etb",
+      "photo_url": "https://admarkt-cdn.marktplaats.com/api/v1/icas-mp-pro-admarkt/images/a4/a4fcc5ea-0f9b-4d23-b8a1-28ae1f5fad06?rule=eps_83"
+    }
+  ]
+}

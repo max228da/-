@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-07-20T21:21:20",
+  "count": 2,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "1503085703",
+      "seller_key": "delta horeca",
+      "seller_nickname": "Delta Horeca",
+      "seller_profile_url": null,
+      "seller_registered_raw": "20 jaar op Marktplaats",
+      "seller_registered_date": "2006-07-25",
+      "published_raw": "Sinds 25 jun '24 Advertentienummer: a1503085703",
+      "published_date": "2024-06-25",
+      "title": "Te huur | Koel wagens | Koningsweekendtarief!",
+      "price": "€225,00 excl.t btw i.p.v. €350,00 excl. btw",
+      "listing_url": "https://www.marktplaats.nl/v/hobby-en-vrije-tijd/feestartikelen-verhuur/a1503085703-te-huur-koel-wagens-koningsweekendtarief",
+      "photo_url": "https://admarkt-cdn.marktplaats.com/api/v1/icas-mp-pro-admarkt/images/f1/f135902d-cb74-43e6-8c66-d52995f89a6f?rule=eps_83"
+    },
+    {
+      "ad_id": "2422284525",
+      "seller_key": "baas",
+      "seller_nickname": "Baas",
+      "seller_profile_url": null,
+      "seller_registered_raw": "20 jaar op Marktplaats",
+      "seller_registered_date": "2006-07-25",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422284525",
+      "published_date": "2026-07-20",
+      "title": "Complete set voor thuis bier brouwen - zeer compleet",
+      "price": "€ 995,00",
+      "listing_url": "https://www.marktplaats.nl/v/hobby-en-vrije-tijd/overige-hobby-en-vrije-tijd/m2422284525-complete-set-voor-thuis-bier-brouwen-zeer-compleet",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/e00624c1-5ae5-4216-8640-0e0297735ade?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

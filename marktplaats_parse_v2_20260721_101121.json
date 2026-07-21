@@ -1,0 +1,68 @@
+{
+  "generated_at": "2026-07-21T10:11:21",
+  "count": 4,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2422376899",
+      "seller_key": "inner stillness wellness",
+      "seller_nickname": "Inner Stillness Wellness",
+      "seller_profile_url": null,
+      "seller_registered_raw": "18 jaar op Marktplaats",
+      "seller_registered_date": "2008-07-25",
+      "published_raw": "Sinds 21 jul '26 Advertentienummer: m2422376899",
+      "published_date": "2026-07-21",
+      "title": "Nieuwe Combi Sauna | Infrarood + 3,5kW Harvia kachel | OP=OP",
+      "price": "Normale prijs: €4.640",
+      "listing_url": "https://www.marktplaats.nl/v/sport-en-fitness/sauna/m2422376899-nieuwe-combi-sauna-infrarood-3-5kw-harvia-kachel-op-op",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/64bf890b-6f11-464b-aa04-418b1e302305?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2308774800",
+      "seller_key": "2ehands-fitness.shop",
+      "seller_nickname": "2ehands-fitness.shop",
+      "seller_profile_url": null,
+      "seller_registered_raw": "18 jaar op Marktplaats",
+      "seller_registered_date": "2008-07-25",
+      "published_raw": "Sinds 8 sep '25 Advertentienummer: m2308774800",
+      "published_date": "2025-09-08",
+      "title": "LET OP! Hometrainer TOTALE MAGAZIJN OPRUIMING",
+      "price": "€ 199,00",
+      "listing_url": "https://www.marktplaats.nl/v/sport-en-fitness/fitnessapparatuur/m2308774800-let-op-hometrainer-totale-magazijn-opruiming",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/b9b7338b-b169-4756-93eb-ea5743068b3a?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2377873564",
+      "seller_key": "pokerwinkel",
+      "seller_nickname": "Pokerwinkel",
+      "seller_profile_url": null,
+      "seller_registered_raw": "16 jaar op Marktplaats",
+      "seller_registered_date": "2010-07-25",
+      "published_raw": "Sinds 16 mar '26 Advertentienummer: m2377873564",
+      "published_date": "2026-03-16",
+      "title": "Luxe pokertafels te koop direct uit voorraad",
+      "price": "Wil je een echte luxe pokertafel kopen? Dan hebben wij diverse modellen luxe poker tafels voor je om thuis heerlijk aan te pokeren. Deze cash game pokertafels zijn zeer stevig en hebben: een dealer tray geschikt voor 350 pokerchips, een cash drop box, een vast onderstel met X design poten, een two-tone casino layout en RVS cupholders. Afmetingen pokertafels: 233 cm x 120 cm x 74 cm. Alle luxe pokertafels zijn direct uit voorraad leverbaar vanuit ons magazijn in Waalre en verkrijgbaar vanaf €1845,-",
+      "listing_url": "https://www.marktplaats.nl/v/hobby-en-vrije-tijd/gezelschapsspellen-kaartspellen/m2377873564-luxe-pokertafels-te-koop-direct-uit-voorraad",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/e38ce919-63db-49ee-8fc1-5403acaa5f31?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2419907191",
+      "seller_key": "de puffende schoorsteen",
+      "seller_nickname": "De Puffende Schoorsteen",
+      "seller_profile_url": null,
+      "seller_registered_raw": "1 week op Marktplaats",
+      "seller_registered_date": "2026-07-14",
+      "published_raw": "Sinds 13 jul '26 Advertentienummer: m2419907191",
+      "published_date": "2026-07-13",
+      "title": "Casey Jones - Silverton Nortern Railroad Railbus",
+      "price": "€ 475,00",
+      "listing_url": "https://www.marktplaats.nl/v/hobby-en-vrije-tijd/modelbouw-overige/m2419907191-casey-jones-silverton-nortern-railroad-railbus",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/b3c8ecd8-28ed-4813-9572-df017497fe8d?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

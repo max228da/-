@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-07-21T01:13:12",
+  "count": 2,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "1348926231",
+      "seller_key": "serverzaak",
+      "seller_nickname": "ServerZaak",
+      "seller_profile_url": null,
+      "seller_registered_raw": "7 jaar op Marktplaats",
+      "seller_registered_date": "2019-07-23",
+      "published_raw": "Sinds 27 aug '20 Advertentienummer: a1348926231",
+      "published_date": "2020-08-27",
+      "title": "HP HPE ProLiant DL360 DL380 ML350 Gen8 Gen9 Gen10 Gen10+",
+      "price": "Alle bestellingen boven € 50,- worden",
+      "listing_url": "https://www.marktplaats.nl/v/computers-en-software/servers/a1348926231-hp-hpe-proliant-dl360-dl380-ml350-gen8-gen9-gen10-gen10",
+      "photo_url": "https://admarkt-cdn.marktplaats.com/api/v1/icas-mp-pro-admarkt/images/b4/b49c3a71-029a-45fb-a9e6-85d1e4d2ab61?rule=eps_83"
+    },
+    {
+      "ad_id": "1528751376",
+      "seller_key": ": info@camera-speciaal.nl",
+      "seller_nickname": ": info@camera-speciaal.nl",
+      "seller_profile_url": null,
+      "seller_registered_raw": "7 jaar op Marktplaats",
+      "seller_registered_date": "2019-07-23",
+      "published_raw": "Sinds 18 jul '26 Advertentienummer: a1528751376",
+      "published_date": "2026-07-18",
+      "title": "Canon EF 24-105mm F4 L IS USM lens met 12 maanden garantie",
+      "price": "",
+      "listing_url": "https://www.marktplaats.nl/v/audio-tv-en-foto/fotografie-lenzen-en-objectieven/a1528751376-canon-ef-24-105mm-f4-l-is-usm-lens-met-12-maanden-garantie",
+      "photo_url": "https://admarkt-cdn.marktplaats.com/api/v1/icas-mp-pro-admarkt/images/61/614b2f34-ba7a-4f57-94cb-7ae78eb6b831?rule=eps_83"
+    }
+  ]
+}

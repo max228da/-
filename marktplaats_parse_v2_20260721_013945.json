@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-07-21T01:39:45",
+  "count": 2,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2422083319",
+      "seller_key": "melvin hoogkamer",
+      "seller_nickname": "Melvin Hoogkamer",
+      "seller_profile_url": null,
+      "seller_registered_raw": "5 maanden op Marktplaats",
+      "seller_registered_date": "2026-02-21",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422083319",
+      "published_date": "2026-07-20",
+      "title": "Sym Fiddle 2 uit 2021 - Dealer onderhouden, binnen gestald",
+      "price": "€ 1.250,00",
+      "listing_url": "https://www.marktplaats.nl/v/fietsen-en-brommers/scooters-sym/m2422083319-sym-fiddle-2-uit-2021-dealer-onderhouden-binnen-gestald",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/394495f5-f37e-4144-955c-1c1764ccd62a?rule=ecg_mp_eps$_83"
+    },
+    {
+      "ad_id": "2401403410",
+      "seller_key": "m",
+      "seller_nickname": "M",
+      "seller_profile_url": null,
+      "seller_registered_raw": "20 jaar op Marktplaats",
+      "seller_registered_date": "2006-07-26",
+      "published_raw": "Sinds 19 mei '26 Advertentienummer: m2401403410",
+      "published_date": "2026-05-19",
+      "title": "Mystery pokemon tin + inhoud",
+      "price": "Dit allemaal voor maar €5,- OP=OP ( beperkte voorraad )",
+      "listing_url": "https://www.marktplaats.nl/v/hobby-en-vrije-tijd/verzamelkaartspellen-pokemon/m2401403410-mystery-pokemon-tin-inhoud",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/a03eca4f-5f51-4f1c-babe-595b57c69acb?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

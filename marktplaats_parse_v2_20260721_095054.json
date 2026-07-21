@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-21T09:50:54",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2416858408",
+      "seller_key": "robbert",
+      "seller_nickname": "Robbert",
+      "seller_profile_url": null,
+      "seller_registered_raw": "14 jaar op Marktplaats",
+      "seller_registered_date": "2012-07-24",
+      "published_raw": "Sinds 4 jul '26 Advertentienummer: m2416858408",
+      "published_date": "2026-07-04",
+      "title": "Prusa MK4S 3D-printer - Zo goed als nieuw",
+      "price": "€ 550,00",
+      "listing_url": "https://www.marktplaats.nl/v/computers-en-software/3d-printers/m2416858408-prusa-mk4s-3d-printer-zo-goed-als-nieuw",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/d75f16a5-199b-4d3f-ae79-7a8ef5c98e64?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

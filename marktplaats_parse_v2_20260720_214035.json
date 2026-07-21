@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-20T21:40:35",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2387741754",
+      "seller_key": "annee",
+      "seller_nickname": "Annee",
+      "seller_profile_url": null,
+      "seller_registered_raw": "13 jaar op Marktplaats",
+      "seller_registered_date": "2013-07-23",
+      "published_raw": "Sinds 12 apr '26 Advertentienummer: m2387741754",
+      "published_date": "2026-04-12",
+      "title": "Ette Tete Fipitri klimrek (5 delen) met loopplank/glijbaan",
+      "price": "€ 160,00",
+      "listing_url": "https://www.marktplaats.nl/v/kinderen-en-baby-s/speelgoed-houten-speelgoed/m2387741754-ette-tete-fipitri-klimrek-5-delen-met-loopplank-glijbaan",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/865374e0-de58-4f54-bb48-8fde1b643ce9?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

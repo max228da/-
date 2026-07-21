@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-20T20:53:12",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2422280094",
+      "seller_key": "stuart gledhill",
+      "seller_nickname": "Stuart Gledhill",
+      "seller_profile_url": null,
+      "seller_registered_raw": "4 jaar op Marktplaats",
+      "seller_registered_date": "2022-07-21",
+      "published_raw": "Sinds 20 jul '26 Advertentienummer: m2422280094",
+      "published_date": "2026-07-20",
+      "title": "Tunturi T60 Performance Loopband (2020)",
+      "price": "€ 500,00",
+      "listing_url": "https://www.marktplaats.nl/v/sport-en-fitness/fitnessapparatuur/m2422280094-tunturi-t60-performance-loopband-2020",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/c1832137-9996-44bd-bbe3-b6bf6ef3dfec?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

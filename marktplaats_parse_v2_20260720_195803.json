@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-20T19:58:03",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2407135529",
+      "seller_key": "henk nottrot",
+      "seller_nickname": "Henk Nottrot",
+      "seller_profile_url": null,
+      "seller_registered_raw": "5 jaar op Marktplaats",
+      "seller_registered_date": "2021-07-21",
+      "published_raw": "Sinds 4 jun '26 Advertentienummer: m2407135529",
+      "published_date": "2026-06-04",
+      "title": "Houten Schommel Scooter - Wit/Zwart met houten kinderwagen",
+      "price": "Bieden",
+      "listing_url": "https://www.marktplaats.nl/v/kinderen-en-baby-s/speelgoed-overig/m2407135529-houten-schommel-scooter-wit-zwart-met-houten-kinderwagen",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/44541224-202d-47a3-ab83-88638cc622a4?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

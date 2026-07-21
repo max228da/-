@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-20T19:24:53",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2420248197",
+      "seller_key": "jose hendriks",
+      "seller_nickname": "Jose Hendriks",
+      "seller_profile_url": null,
+      "seller_registered_raw": "6 jaar op Marktplaats",
+      "seller_registered_date": "2020-07-21",
+      "published_raw": "Sinds 14 jul '26 Advertentienummer: m2420248197",
+      "published_date": "2026-07-14",
+      "title": "Twee Kalkhoff e-bikes te koop.",
+      "price": "€ 39,-",
+      "listing_url": "https://www.marktplaats.nl/v/fietsen-en-brommers/elektrische-fietsen/m2420248197-twee-kalkhoff-e-bikes-te-koop",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/8e0f6ea2-3f0e-43a7-a716-518fa8dca0b5?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

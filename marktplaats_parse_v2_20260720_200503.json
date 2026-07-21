@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-20T20:05:03",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "2415738271",
+      "seller_key": "orhan asan",
+      "seller_nickname": "Orhan Asan",
+      "seller_profile_url": null,
+      "seller_registered_raw": "1 jaar op Marktplaats",
+      "seller_registered_date": "2025-07-20",
+      "published_raw": "Sinds 1 jul '26 Advertentienummer: m2415738271",
+      "published_date": "2026-07-01",
+      "title": "TP-Link Archer BE800",
+      "price": "€ 200,00",
+      "listing_url": "https://www.marktplaats.nl/v/computers-en-software/routers-en-modems/m2415738271-tp-link-archer-be800",
+      "photo_url": "https://images.marktplaats.com/api/v1/hz-mp-pro-listing/images/48d0975e-0cf9-4883-8e19-935f7f875900?rule=ecg_mp_eps$_83"
+    }
+  ]
+}

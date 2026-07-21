@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-07-21T02:05:43",
+  "count": 1,
+  "applied_filters": {
+    "published_from": null,
+    "published_to": null,
+    "seller_registered_from": null,
+    "seller_registered_to": null
+  },
+  "items": [
+    {
+      "ad_id": "1528128943",
+      "seller_key": "telefoongigant",
+      "seller_nickname": "TelefoonGigant",
+      "seller_profile_url": null,
+      "seller_registered_raw": "3 maanden op Marktplaats",
+      "seller_registered_date": "2026-04-22",
+      "published_raw": "Sinds 2 jul '26 Advertentienummer: a1528128943",
+      "published_date": "2026-07-02",
+      "title": "Refurbished iPhone 17 Pro 512GB Blauw - No Face ID",
+      "price": "€ 1.129,00",
+      "listing_url": "https://www.marktplaats.nl/v/telecommunicatie/mobiele-telefoons-apple-iphone/a1528128943-refurbished-iphone-17-pro-512gb-blauw-no-face-id",
+      "photo_url": "https://admarkt-cdn.marktplaats.com/api/v1/icas-mp-pro-admarkt/images/75/7518537b-7637-43d6-b5a9-4154dee095ac?rule=eps_83"
+    }
+  ]
+}
