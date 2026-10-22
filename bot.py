@@ -38,6 +38,7 @@ def _main_keyboard():
          InlineKeyboardButton(text="📊 Статистика", callback_data="menu_stats")],
         [InlineKeyboardButton(text="🛒 Парсер KA", callback_data="menu_parser_ka"),
          InlineKeyboardButton(text="🇳🇱 Парсер MP", callback_data="menu_parser_mp")],
+        [InlineKeyboardButton(text="🇦🇹 Láendle Watcher", callback_data="menu_parser_laendle")],
         [InlineKeyboardButton(text="⚙️ Настройки", callback_data="menu_settings")],
         [InlineKeyboardButton(text="🤖 АВТО-ЗАПУСК (всё сразу)", callback_data="menu_auto")],
     ])
@@ -147,6 +148,8 @@ async def show_stats(callback: CallbackQuery):
 
 async def on_startup():
     await init_db()
+    from laendle_db import init_laendle_db
+    await init_laendle_db()
     logger.info("Database initialized")
     # /start в меню команд (слева от строки ввода) + кнопка-меню показывает команды
     try:
@@ -171,6 +174,7 @@ async def main():
     from handlers.parser_mp import register_handlers as register_parser_mp
     from handlers.auto_pipeline import register_handlers as register_auto
     from handlers.external_json import register_handlers as register_external
+    from handlers.parser_laendle import register_handlers as register_parser_laendle, start_laendle_monitor
 
     register_validator(dp)
     register_accounts(dp)
@@ -183,9 +187,11 @@ async def main():
     register_parser_mp(dp)
     register_auto(dp)
     register_external(dp)
+    register_parser_laendle(dp)
 
     await on_startup()
     asyncio.create_task(start_inbox_listener(bot))
+    asyncio.create_task(start_laendle_monitor(bot))
     await dp.start_polling(bot, drop_pending_updates=True)
 
 
