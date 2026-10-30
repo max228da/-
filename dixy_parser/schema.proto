@@ -1,0 +1,51 @@
+// Протобуф-схема офферов Edadeal (reverse-engineered из их web-клиента).
+// На случай, если endpoint /web/search/offers ещё отдаёт protobuf
+// (исторический формат). Если API перешёл на JSON — файл не нужен,
+// decode упадёт и клиент автоматически переключится на JSON-парсер.
+//
+// Собрано по публикации Habr 680320 (2022 г.) + сверено с полями,
+// которые web-клиент Edadeal ожидает в редьюсерах.
+syntax = "proto3";
+
+package edadeal;
+
+message OffersResponse {
+    repeated Offer offers = 1;
+    PageInfo page = 2;
+    int32 total = 3;
+}
+
+message PageInfo {
+    int32 count = 1;
+    int32 page = 2;
+    int32 total_pages = 3;
+}
+
+message Offer {
+    string id            = 1;   // uuid оффера
+    string name          = 2;   // название товара
+    string description   = 3;
+    Price price_old      = 4;   // прежняя цена (до скидки)
+    Price price_new      = 5;   // цена со скидкой
+    float  discount      = 6;   // % скидки (может быть 0 — тогда считаем сами)
+    string image_url     = 7;
+    string start_date    = 8;   // ISO-8601
+    string end_date      = 9;
+    string retailer_slug = 10;
+    string segment       = 11;  // slug категории
+    string segment_name  = 12;
+    repeated string shop_ids = 13;  // id магазинов, где актуально
+    string url           = 14;  // deep-link на карточку в Edadeal
+    Quantity quantity    = 15;  // объём/вес
+    bool is_exclusive    = 16;
+}
+
+message Price {
+    double value = 1;
+    string currency = 2;        // "RUB"
+}
+
+message Quantity {
+    double value = 1;
+    string unit = 2;            // "г", "мл", "шт" и т.п.
+}

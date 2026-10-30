@@ -1,0 +1,4 @@
+out/
+yandex_cookies.txt
+*.pyc
+__pycache__/
